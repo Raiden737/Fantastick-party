@@ -1,0 +1,31 @@
+header {
+background-color: #AFEEEE;
+color: whitesmoke;
+border: 3px solid black;
+}
+header img {
+margin: 10px;
+}
+h1 {
+color: #0000CD;
+text-align: center;
+}
+footer {
+background-color: #AFEEEE;
+border: 3px solid black;
+}
+nav {
+background-color: #AFEEEE;
+border: 3px solid black;
+}
+.ok {
+background-color: #AFEEEE;
+
+}
+body {
+font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+.okk {
+    background-color: #AFEEEE;
+    border: 3px solid black;
+}
